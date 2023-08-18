@@ -1,0 +1,15 @@
+C:\Users\manue\source\repos\ObserverPatronVolverComida\ObserverPatronVolverComida\bin\Debug\net6.0\ObserverPatronVolverComida.exe
+C:\Users\manue\source\repos\ObserverPatronVolverComida\ObserverPatronVolverComida\bin\Debug\net6.0\ObserverPatronVolverComida.deps.json
+C:\Users\manue\source\repos\ObserverPatronVolverComida\ObserverPatronVolverComida\bin\Debug\net6.0\ObserverPatronVolverComida.runtimeconfig.json
+C:\Users\manue\source\repos\ObserverPatronVolverComida\ObserverPatronVolverComida\bin\Debug\net6.0\ObserverPatronVolverComida.dll
+C:\Users\manue\source\repos\ObserverPatronVolverComida\ObserverPatronVolverComida\bin\Debug\net6.0\ObserverPatronVolverComida.pdb
+C:\Users\manue\source\repos\ObserverPatronVolverComida\ObserverPatronVolverComida\obj\Debug\net6.0\ObserverPatronVolverComida.csproj.AssemblyReference.cache
+C:\Users\manue\source\repos\ObserverPatronVolverComida\ObserverPatronVolverComida\obj\Debug\net6.0\ObserverPatronVolverComida.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manue\source\repos\ObserverPatronVolverComida\ObserverPatronVolverComida\obj\Debug\net6.0\ObserverPatronVolverComida.AssemblyInfoInputs.cache
+C:\Users\manue\source\repos\ObserverPatronVolverComida\ObserverPatronVolverComida\obj\Debug\net6.0\ObserverPatronVolverComida.AssemblyInfo.cs
+C:\Users\manue\source\repos\ObserverPatronVolverComida\ObserverPatronVolverComida\obj\Debug\net6.0\ObserverPatronVolverComida.csproj.CoreCompileInputs.cache
+C:\Users\manue\source\repos\ObserverPatronVolverComida\ObserverPatronVolverComida\obj\Debug\net6.0\ObserverPatronVolverComida.dll
+C:\Users\manue\source\repos\ObserverPatronVolverComida\ObserverPatronVolverComida\obj\Debug\net6.0\refint\ObserverPatronVolverComida.dll
+C:\Users\manue\source\repos\ObserverPatronVolverComida\ObserverPatronVolverComida\obj\Debug\net6.0\ObserverPatronVolverComida.pdb
+C:\Users\manue\source\repos\ObserverPatronVolverComida\ObserverPatronVolverComida\obj\Debug\net6.0\ObserverPatronVolverComida.genruntimeconfig.cache
+C:\Users\manue\source\repos\ObserverPatronVolverComida\ObserverPatronVolverComida\obj\Debug\net6.0\ref\ObserverPatronVolverComida.dll

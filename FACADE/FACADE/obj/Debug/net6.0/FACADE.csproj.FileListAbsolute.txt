@@ -1,0 +1,15 @@
+C:\Users\manue\source\repos\FACADE\FACADE\bin\Debug\net6.0\FACADE.exe
+C:\Users\manue\source\repos\FACADE\FACADE\bin\Debug\net6.0\FACADE.deps.json
+C:\Users\manue\source\repos\FACADE\FACADE\bin\Debug\net6.0\FACADE.runtimeconfig.json
+C:\Users\manue\source\repos\FACADE\FACADE\bin\Debug\net6.0\FACADE.dll
+C:\Users\manue\source\repos\FACADE\FACADE\bin\Debug\net6.0\FACADE.pdb
+C:\Users\manue\source\repos\FACADE\FACADE\obj\Debug\net6.0\FACADE.csproj.AssemblyReference.cache
+C:\Users\manue\source\repos\FACADE\FACADE\obj\Debug\net6.0\FACADE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manue\source\repos\FACADE\FACADE\obj\Debug\net6.0\FACADE.AssemblyInfoInputs.cache
+C:\Users\manue\source\repos\FACADE\FACADE\obj\Debug\net6.0\FACADE.AssemblyInfo.cs
+C:\Users\manue\source\repos\FACADE\FACADE\obj\Debug\net6.0\FACADE.csproj.CoreCompileInputs.cache
+C:\Users\manue\source\repos\FACADE\FACADE\obj\Debug\net6.0\FACADE.dll
+C:\Users\manue\source\repos\FACADE\FACADE\obj\Debug\net6.0\refint\FACADE.dll
+C:\Users\manue\source\repos\FACADE\FACADE\obj\Debug\net6.0\FACADE.pdb
+C:\Users\manue\source\repos\FACADE\FACADE\obj\Debug\net6.0\FACADE.genruntimeconfig.cache
+C:\Users\manue\source\repos\FACADE\FACADE\obj\Debug\net6.0\ref\FACADE.dll

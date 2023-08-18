@@ -1,0 +1,8 @@
+C:\Users\manue\source\repos\InscripcionEstudiante\InscripcionEstudiante\bin\Debug\InscripcionEstudiante.exe.config
+C:\Users\manue\source\repos\InscripcionEstudiante\InscripcionEstudiante\bin\Debug\InscripcionEstudiante.exe
+C:\Users\manue\source\repos\InscripcionEstudiante\InscripcionEstudiante\bin\Debug\InscripcionEstudiante.pdb
+C:\Users\manue\source\repos\InscripcionEstudiante\InscripcionEstudiante\obj\Debug\InscripcionEstudiante.csproj.AssemblyReference.cache
+C:\Users\manue\source\repos\InscripcionEstudiante\InscripcionEstudiante\obj\Debug\InscripcionEstudiante.csproj.CoreCompileInputs.cache
+C:\Users\manue\source\repos\InscripcionEstudiante\InscripcionEstudiante\obj\Debug\InscripcionEstudiante.exe
+C:\Users\manue\source\repos\InscripcionEstudiante\InscripcionEstudiante\obj\Debug\InscripcionEstudiante.pdb
+C:\Users\manue\source\repos\InscripcionEstudiante\InscripcionEstudiante\obj\Debug\InscripcionEstudiante.csproj.SuggestedBindingRedirects.cache

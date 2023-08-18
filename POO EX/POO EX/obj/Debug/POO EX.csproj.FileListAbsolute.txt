@@ -1,0 +1,7 @@
+C:\Users\manue\source\repos\POO EX\POO EX\bin\Debug\POO EX.exe.config
+C:\Users\manue\source\repos\POO EX\POO EX\bin\Debug\POO EX.exe
+C:\Users\manue\source\repos\POO EX\POO EX\bin\Debug\POO EX.pdb
+C:\Users\manue\source\repos\POO EX\POO EX\obj\Debug\POO EX.csproj.AssemblyReference.cache
+C:\Users\manue\source\repos\POO EX\POO EX\obj\Debug\POO EX.csproj.CoreCompileInputs.cache
+C:\Users\manue\source\repos\POO EX\POO EX\obj\Debug\POO EX.exe
+C:\Users\manue\source\repos\POO EX\POO EX\obj\Debug\POO EX.pdb

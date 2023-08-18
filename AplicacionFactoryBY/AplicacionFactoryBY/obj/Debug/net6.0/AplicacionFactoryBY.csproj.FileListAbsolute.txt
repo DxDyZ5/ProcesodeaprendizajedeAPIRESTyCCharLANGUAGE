@@ -1,0 +1,15 @@
+C:\Users\manue\source\repos\AplicacionFactoryBY\AplicacionFactoryBY\bin\Debug\net6.0\AplicacionFactoryBY.exe
+C:\Users\manue\source\repos\AplicacionFactoryBY\AplicacionFactoryBY\bin\Debug\net6.0\AplicacionFactoryBY.deps.json
+C:\Users\manue\source\repos\AplicacionFactoryBY\AplicacionFactoryBY\bin\Debug\net6.0\AplicacionFactoryBY.runtimeconfig.json
+C:\Users\manue\source\repos\AplicacionFactoryBY\AplicacionFactoryBY\bin\Debug\net6.0\AplicacionFactoryBY.dll
+C:\Users\manue\source\repos\AplicacionFactoryBY\AplicacionFactoryBY\bin\Debug\net6.0\AplicacionFactoryBY.pdb
+C:\Users\manue\source\repos\AplicacionFactoryBY\AplicacionFactoryBY\obj\Debug\net6.0\AplicacionFactoryBY.csproj.AssemblyReference.cache
+C:\Users\manue\source\repos\AplicacionFactoryBY\AplicacionFactoryBY\obj\Debug\net6.0\AplicacionFactoryBY.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manue\source\repos\AplicacionFactoryBY\AplicacionFactoryBY\obj\Debug\net6.0\AplicacionFactoryBY.AssemblyInfoInputs.cache
+C:\Users\manue\source\repos\AplicacionFactoryBY\AplicacionFactoryBY\obj\Debug\net6.0\AplicacionFactoryBY.AssemblyInfo.cs
+C:\Users\manue\source\repos\AplicacionFactoryBY\AplicacionFactoryBY\obj\Debug\net6.0\AplicacionFactoryBY.csproj.CoreCompileInputs.cache
+C:\Users\manue\source\repos\AplicacionFactoryBY\AplicacionFactoryBY\obj\Debug\net6.0\AplicacionFactoryBY.dll
+C:\Users\manue\source\repos\AplicacionFactoryBY\AplicacionFactoryBY\obj\Debug\net6.0\refint\AplicacionFactoryBY.dll
+C:\Users\manue\source\repos\AplicacionFactoryBY\AplicacionFactoryBY\obj\Debug\net6.0\AplicacionFactoryBY.pdb
+C:\Users\manue\source\repos\AplicacionFactoryBY\AplicacionFactoryBY\obj\Debug\net6.0\AplicacionFactoryBY.genruntimeconfig.cache
+C:\Users\manue\source\repos\AplicacionFactoryBY\AplicacionFactoryBY\obj\Debug\net6.0\ref\AplicacionFactoryBY.dll

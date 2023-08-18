@@ -1,0 +1,7 @@
+C:\Users\manue\source\repos\POOAutomovil\POOAutomovil\bin\Debug\POOAutomovil.exe.config
+C:\Users\manue\source\repos\POOAutomovil\POOAutomovil\bin\Debug\POOAutomovil.exe
+C:\Users\manue\source\repos\POOAutomovil\POOAutomovil\bin\Debug\POOAutomovil.pdb
+C:\Users\manue\source\repos\POOAutomovil\POOAutomovil\obj\Debug\POOAutomovil.csproj.AssemblyReference.cache
+C:\Users\manue\source\repos\POOAutomovil\POOAutomovil\obj\Debug\POOAutomovil.csproj.CoreCompileInputs.cache
+C:\Users\manue\source\repos\POOAutomovil\POOAutomovil\obj\Debug\POOAutomovil.exe
+C:\Users\manue\source\repos\POOAutomovil\POOAutomovil\obj\Debug\POOAutomovil.pdb

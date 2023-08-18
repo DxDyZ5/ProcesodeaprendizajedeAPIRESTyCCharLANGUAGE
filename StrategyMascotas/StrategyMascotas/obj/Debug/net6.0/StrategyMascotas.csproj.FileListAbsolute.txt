@@ -1,0 +1,15 @@
+C:\Users\manue\source\repos\StrategyMascotas\StrategyMascotas\obj\Debug\net6.0\StrategyMascotas.csproj.AssemblyReference.cache
+C:\Users\manue\source\repos\StrategyMascotas\StrategyMascotas\obj\Debug\net6.0\StrategyMascotas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manue\source\repos\StrategyMascotas\StrategyMascotas\obj\Debug\net6.0\StrategyMascotas.AssemblyInfoInputs.cache
+C:\Users\manue\source\repos\StrategyMascotas\StrategyMascotas\obj\Debug\net6.0\StrategyMascotas.AssemblyInfo.cs
+C:\Users\manue\source\repos\StrategyMascotas\StrategyMascotas\obj\Debug\net6.0\StrategyMascotas.csproj.CoreCompileInputs.cache
+C:\Users\manue\source\repos\StrategyMascotas\StrategyMascotas\bin\Debug\net6.0\StrategyMascotas.exe
+C:\Users\manue\source\repos\StrategyMascotas\StrategyMascotas\bin\Debug\net6.0\StrategyMascotas.deps.json
+C:\Users\manue\source\repos\StrategyMascotas\StrategyMascotas\bin\Debug\net6.0\StrategyMascotas.runtimeconfig.json
+C:\Users\manue\source\repos\StrategyMascotas\StrategyMascotas\bin\Debug\net6.0\StrategyMascotas.dll
+C:\Users\manue\source\repos\StrategyMascotas\StrategyMascotas\bin\Debug\net6.0\StrategyMascotas.pdb
+C:\Users\manue\source\repos\StrategyMascotas\StrategyMascotas\obj\Debug\net6.0\StrategyMascotas.dll
+C:\Users\manue\source\repos\StrategyMascotas\StrategyMascotas\obj\Debug\net6.0\refint\StrategyMascotas.dll
+C:\Users\manue\source\repos\StrategyMascotas\StrategyMascotas\obj\Debug\net6.0\StrategyMascotas.pdb
+C:\Users\manue\source\repos\StrategyMascotas\StrategyMascotas\obj\Debug\net6.0\StrategyMascotas.genruntimeconfig.cache
+C:\Users\manue\source\repos\StrategyMascotas\StrategyMascotas\obj\Debug\net6.0\ref\StrategyMascotas.dll

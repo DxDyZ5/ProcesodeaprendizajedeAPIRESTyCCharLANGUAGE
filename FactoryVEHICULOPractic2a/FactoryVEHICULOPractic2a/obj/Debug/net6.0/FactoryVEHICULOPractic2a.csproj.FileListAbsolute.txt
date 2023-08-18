@@ -1,0 +1,15 @@
+C:\Users\manue\source\repos\FactoryVEHICULOPractic2a\FactoryVEHICULOPractic2a\bin\Debug\net6.0\FactoryVEHICULOPractic2a.exe
+C:\Users\manue\source\repos\FactoryVEHICULOPractic2a\FactoryVEHICULOPractic2a\bin\Debug\net6.0\FactoryVEHICULOPractic2a.deps.json
+C:\Users\manue\source\repos\FactoryVEHICULOPractic2a\FactoryVEHICULOPractic2a\bin\Debug\net6.0\FactoryVEHICULOPractic2a.runtimeconfig.json
+C:\Users\manue\source\repos\FactoryVEHICULOPractic2a\FactoryVEHICULOPractic2a\bin\Debug\net6.0\FactoryVEHICULOPractic2a.dll
+C:\Users\manue\source\repos\FactoryVEHICULOPractic2a\FactoryVEHICULOPractic2a\bin\Debug\net6.0\FactoryVEHICULOPractic2a.pdb
+C:\Users\manue\source\repos\FactoryVEHICULOPractic2a\FactoryVEHICULOPractic2a\obj\Debug\net6.0\FactoryVEHICULOPractic2a.csproj.AssemblyReference.cache
+C:\Users\manue\source\repos\FactoryVEHICULOPractic2a\FactoryVEHICULOPractic2a\obj\Debug\net6.0\FactoryVEHICULOPractic2a.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manue\source\repos\FactoryVEHICULOPractic2a\FactoryVEHICULOPractic2a\obj\Debug\net6.0\FactoryVEHICULOPractic2a.AssemblyInfoInputs.cache
+C:\Users\manue\source\repos\FactoryVEHICULOPractic2a\FactoryVEHICULOPractic2a\obj\Debug\net6.0\FactoryVEHICULOPractic2a.AssemblyInfo.cs
+C:\Users\manue\source\repos\FactoryVEHICULOPractic2a\FactoryVEHICULOPractic2a\obj\Debug\net6.0\FactoryVEHICULOPractic2a.csproj.CoreCompileInputs.cache
+C:\Users\manue\source\repos\FactoryVEHICULOPractic2a\FactoryVEHICULOPractic2a\obj\Debug\net6.0\FactoryVEHICULOPractic2a.dll
+C:\Users\manue\source\repos\FactoryVEHICULOPractic2a\FactoryVEHICULOPractic2a\obj\Debug\net6.0\refint\FactoryVEHICULOPractic2a.dll
+C:\Users\manue\source\repos\FactoryVEHICULOPractic2a\FactoryVEHICULOPractic2a\obj\Debug\net6.0\FactoryVEHICULOPractic2a.pdb
+C:\Users\manue\source\repos\FactoryVEHICULOPractic2a\FactoryVEHICULOPractic2a\obj\Debug\net6.0\FactoryVEHICULOPractic2a.genruntimeconfig.cache
+C:\Users\manue\source\repos\FactoryVEHICULOPractic2a\FactoryVEHICULOPractic2a\obj\Debug\net6.0\ref\FactoryVEHICULOPractic2a.dll

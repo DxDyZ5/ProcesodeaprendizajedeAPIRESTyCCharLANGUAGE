@@ -1,0 +1,15 @@
+C:\Users\manue\source\repos\FiguraFactory\FiguraFactory\bin\Debug\net6.0\FiguraFactory.exe
+C:\Users\manue\source\repos\FiguraFactory\FiguraFactory\bin\Debug\net6.0\FiguraFactory.deps.json
+C:\Users\manue\source\repos\FiguraFactory\FiguraFactory\bin\Debug\net6.0\FiguraFactory.runtimeconfig.json
+C:\Users\manue\source\repos\FiguraFactory\FiguraFactory\bin\Debug\net6.0\FiguraFactory.dll
+C:\Users\manue\source\repos\FiguraFactory\FiguraFactory\bin\Debug\net6.0\FiguraFactory.pdb
+C:\Users\manue\source\repos\FiguraFactory\FiguraFactory\obj\Debug\net6.0\FiguraFactory.csproj.AssemblyReference.cache
+C:\Users\manue\source\repos\FiguraFactory\FiguraFactory\obj\Debug\net6.0\FiguraFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manue\source\repos\FiguraFactory\FiguraFactory\obj\Debug\net6.0\FiguraFactory.AssemblyInfoInputs.cache
+C:\Users\manue\source\repos\FiguraFactory\FiguraFactory\obj\Debug\net6.0\FiguraFactory.AssemblyInfo.cs
+C:\Users\manue\source\repos\FiguraFactory\FiguraFactory\obj\Debug\net6.0\FiguraFactory.csproj.CoreCompileInputs.cache
+C:\Users\manue\source\repos\FiguraFactory\FiguraFactory\obj\Debug\net6.0\FiguraFactory.dll
+C:\Users\manue\source\repos\FiguraFactory\FiguraFactory\obj\Debug\net6.0\refint\FiguraFactory.dll
+C:\Users\manue\source\repos\FiguraFactory\FiguraFactory\obj\Debug\net6.0\FiguraFactory.pdb
+C:\Users\manue\source\repos\FiguraFactory\FiguraFactory\obj\Debug\net6.0\FiguraFactory.genruntimeconfig.cache
+C:\Users\manue\source\repos\FiguraFactory\FiguraFactory\obj\Debug\net6.0\ref\FiguraFactory.dll

@@ -1,0 +1,7 @@
+C:\Users\manue\source\repos\SingletonPOOX\SingletonPOOX\bin\Debug\SingletonPOOX.exe.config
+C:\Users\manue\source\repos\SingletonPOOX\SingletonPOOX\bin\Debug\SingletonPOOX.exe
+C:\Users\manue\source\repos\SingletonPOOX\SingletonPOOX\bin\Debug\SingletonPOOX.pdb
+C:\Users\manue\source\repos\SingletonPOOX\SingletonPOOX\obj\Debug\SingletonPOOX.csproj.AssemblyReference.cache
+C:\Users\manue\source\repos\SingletonPOOX\SingletonPOOX\obj\Debug\SingletonPOOX.csproj.CoreCompileInputs.cache
+C:\Users\manue\source\repos\SingletonPOOX\SingletonPOOX\obj\Debug\SingletonPOOX.exe
+C:\Users\manue\source\repos\SingletonPOOX\SingletonPOOX\obj\Debug\SingletonPOOX.pdb

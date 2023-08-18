@@ -1,0 +1,8 @@
+C:\Users\manue\source\repos\SolutionFactory\SolutionFactory\bin\Debug\SolutionFactory.exe.config
+C:\Users\manue\source\repos\SolutionFactory\SolutionFactory\bin\Debug\SolutionFactory.exe
+C:\Users\manue\source\repos\SolutionFactory\SolutionFactory\bin\Debug\SolutionFactory.pdb
+C:\Users\manue\source\repos\SolutionFactory\SolutionFactory\obj\Debug\SolutionFactory.csproj.AssemblyReference.cache
+C:\Users\manue\source\repos\SolutionFactory\SolutionFactory\obj\Debug\SolutionFactory.csproj.CoreCompileInputs.cache
+C:\Users\manue\source\repos\SolutionFactory\SolutionFactory\obj\Debug\SolutionFactory.exe
+C:\Users\manue\source\repos\SolutionFactory\SolutionFactory\obj\Debug\SolutionFactory.pdb
+C:\Users\manue\source\repos\SolutionFactory\SolutionFactory\obj\Debug\SolutionFactory.csproj.SuggestedBindingRedirects.cache
